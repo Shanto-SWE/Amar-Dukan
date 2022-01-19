@@ -1,0 +1,120 @@
+.fa-circle{
+    font-size: 10px;
+}
+
+.table td{
+    margin: 0;
+    padding: 0;
+    padding: 5px 5px;
+
+}
+.table th{
+  padding: 15px 5px;
+  font-size: 17px;
+
+}
+.home_active{
+  color: white;
+ 
+}
+.home_active span{
+  background-color: green;
+border-radius: 5px;
+padding: 2px 3px;
+}
+.shopinactive{
+  background-color: red;
+  padding: 5px 10px;
+  color: white;
+  border-radius: 5px;
+}
+.shopinactive:hover{
+  color: white;
+}
+
+.shopactive:hover{
+  color: white;
+}
+.shopactive{
+  background-color: green;
+  padding: 5px 10px;
+  color: white;
+  border-radius: 5px;
+}
+.shoperprofile{
+  height: 100%!important;
+}
+.productview table tr,td{
+  border: 1px solid black;
+}
+.productview table td{
+  padding: 20px 10px;
+}
+.productview table{
+  width: 700px;
+  font-size: 20px;
+
+}
+.viewordertable td{
+  padding: 0 20px;
+ border: none;
+}
+.viewordertable th{
+  padding: 0 20px;
+}
+.customer_details, .billing_address, .order_details, .deliver_address, .update_status,.order_product{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 0.0625em 0.0625em, rgba(0, 0, 0, 0.25) 0px 0.125em 0.5em, rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset;
+  background-color: #f7f1e3;
+}
+.customerdetails{
+  height: 100%;
+}
+.orderdetails h5{
+
+  font-weight: bold;
+
+}
+.order_product h5{
+  font-weight: bold;
+}
+.customerdetails ,.orderde{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  height: 100%;
+}
+.orderdetails{
+  height: 100%;
+}
+.adminnotification{
+  margin-bottom: 0;
+}
+.notification{
+
+  padding: 5px 5px;
+
+}
+.notificationcolor{
+  background-color: #dcdde1;
+}
+.latastcustomerdas .dashboarduser{
+  width: 80px;
+  height: 80px;
+
+}
+.orderhistory{
+  padding-bottom: 0!important;
+  margin-bottom: 0!important;
+}
+.shoperlogo{
+  height: 55px!important;
+  width: 55px!important;
+}
+.adminlogo{
+  width: 320px;
+  height: 40px;
+}
+.view_invoice{
+  max-width: 50px; 
+   max-height:50px;
+}
