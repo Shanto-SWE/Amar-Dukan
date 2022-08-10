@@ -14,16 +14,52 @@ account. After logging in shopkeeper can add categories, add products and manage
 
 
 Features:
-1. Category, subcategory, brand, and products.
-2. A detailed product description
-3. Wishlist and cart
-4. Coupon and Special offers are available
+
+1.Category,subcategory,brand and products
+
+2.A detailed product description
+
+3.Wishlist and cart
+
+4.Coupon and special offers are available
+
 5.Campaign
-6. Multiple shop
-7. Request product
+
+6.Multiple shop
+
+7.Request product
+
 8.Ticket system
+
 9.Live chat
+
 10.Ask question about product
+
+11.Return and cancel product process
+
+12.Product review and sharing system
+
+13.Shop review
+
+14.Subscriber email or newsletter
+
+15.Search products
+
+16.Check out option
+
+17.Login with phone or email
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
