@@ -24,13 +24,6 @@ Features:
 8.Ticket system
 9.Live chat
 10.Ask question about product
-11. Return and cancel product process
-12. Product review and sharing system
-13.Shop review
-14.Subscriber email or newsletter
-15. Search Products
-16. Check-out option
-18. Login with Number or Email
 
 
 
