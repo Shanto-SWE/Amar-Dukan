@@ -1,4 +1,6 @@
-Introduction:
+                                                    ## Online Grocery Store(Amar Dukan)
+
+## Introduction:
 
 The aim of this project is to create an online grocery shop to help Consumers who buy grocery from online. There are a lot of online grocery stores online so the idea behind developing this application. We know today life online shopping has entered every industry and way of life. Consumers have made online shopping an essential aspect of their lives. One cannot live without toothpaste, soap, vegetables, and groceries. 
 Consumers prefer internet shopping because of the fast pace of city life, as well as time and location constraints. So this project helps consumers to buy any grocery items easily. In this project, there have multiple shops and customers can easily find the nearest shop from their home to buy groceries. 
@@ -13,7 +15,7 @@ Shopkeeper:In this application,a shopkeeper can registration this site. If the a
 account. After logging in shopkeeper can add categories, add products and manage categories and products.
 
 
-Features:
+## Features:
 
 1.Category,subcategory,brand and products
 
@@ -49,7 +51,7 @@ Features:
 
 17.Login with phone or email
 
-
+## Screenshort of my website
 
 
 
